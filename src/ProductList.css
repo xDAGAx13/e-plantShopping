@@ -97,6 +97,16 @@ body {
     height: 200px; /* Adjust height for better consistency */
 }
 
+.product-button-added {
+    background-color: #ccc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    margin-top: 10px;
+}
+
 .product-button {
     background-color: #e74c3c;
     color: #fff;
